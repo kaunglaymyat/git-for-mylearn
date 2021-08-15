@@ -1,0 +1,1 @@
+console.log("bar loat nay tar lal");
